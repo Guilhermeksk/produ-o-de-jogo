@@ -1,0 +1,36 @@
+/**/
+
+canvas{
+ background-image: url("https://i.pinimg.com/originals/83/cf/15/83cf152095bdeb24713093606facc72b.gif");
+ width: 95%;
+}
+ canvas.Escuro{
+
+background-image: url("https://uploads.spiritfanfiction.com/fanfics/historias/202010/noisy-20659574-041020201507.gif");
+
+width: 95%;
+
+}
+
+claro{
+
+background-image: url("https://i.pinimg.com/originals/e6/71/8e/e6718e4d263b2387c3840df1bd65ca7f.gif");
+
+width: 95%;
+
+}
+
+button{
+height: 60px;
+
+}
+button svg{
+width: 40px;
+height: 40px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
